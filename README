@@ -1,0 +1,5 @@
+Simple Static Website
+
+A simple template for creating deploying static sites to rack based hosts such as Heroku.
+
+Uses Rack and nothing else.
